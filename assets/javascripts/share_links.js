@@ -17,4 +17,13 @@
     popupHeight: 628
   });
 
+  Discourse.ShareLink.addTarget('wechat', {
+    iconClass: 'fa-wechat',
+    generateUrl: function(link) {
+      return ("http://s.jiathis.com/qrcode.php?url=" + encodeURIComponent(link));
+    },
+    shouldOpenInPopup: true,
+    popupHeight: 200
+  });
+
 })();
