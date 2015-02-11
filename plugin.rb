@@ -2,5 +2,4 @@
 # about: Add more services to share on.
 # version: 0.1.1
 # author: Erick Guan
-
-register_asset('javascripts/share_links.js')
+# rewrite by suanfazu.com
