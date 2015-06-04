@@ -29,8 +29,9 @@ Go to Site Settings's basic category, add services in the share_links.
 
 ## Changelog
 
-Current version: 0.1.1
+Current version: 0.2.0
 
-0.1.1: 增加了微信支持（弹出窗口）
+0.1.1：增加了微信支持（弹出窗口）
+0.2.0：支持 Discourse 1.3
 
 <img src="https://meta.discourse.org/uploads/default/37011/5ca80fe8f9fbd487.png" width="390" height="197">
