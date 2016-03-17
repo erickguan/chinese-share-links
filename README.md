@@ -1,7 +1,7 @@
 chinese-share-links
 ===================
 
-<strong>将随 Discourse 1.5 正式版被[集合插件](https://github.com/fantasticfears/discourse-chinese-localization-pack) 取代。Discourse 1.6 正式版后该插件会被删除。</strong>
+<strong>将随 Discourse 1.5 正式版被[集合插件](https://meta.discoursecn.org/localization-pack#迁移至-05-版本) 取代。Discourse 1.6 正式版后该插件会被删除。</strong>
 
 Chinese share links is a plugin for Discourse to add share links for Weibo & Renren.
 
