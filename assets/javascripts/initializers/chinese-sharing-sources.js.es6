@@ -6,12 +6,12 @@ export default {
   initialize() {
     Sharing.addSource({
       id: 'utroseniSati',
-      faIcon: 'fa-weibo',
+      faIcon: 'fa-check',
       generateUrl(link, title) {
         return "http://172.16.0.50:84/utroseniSati?url=" + encodeURIComponent(link) + "&title=" + encodeURIComponent(title);
       },
       shouldOpenInPopup: true,
-      popupHeight: 400
+      popupHeight: 480
     });
   }
 }
