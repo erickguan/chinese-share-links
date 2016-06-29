@@ -11,7 +11,8 @@ export default {
         return "http://erp.rgt.ba/ipPref/Task?url=" + encodeURIComponent(link) + "&title=" + encodeURIComponent(title);
       },
       shouldOpenInPopup: true,
-      popupHeight: 480
+      popupHeight: 480,
+      popupWidth: 1120
     });
   }
 }
