@@ -8,7 +8,7 @@ export default {
       id: 'utroseniSati',
       faIcon: 'fa-check',
       generateUrl(link, title) {
-        return "http://172.16.0.50:84/utroseniSati?url=" + encodeURIComponent(link) + "&title=" + encodeURIComponent(title);
+        return "http://erp.rgt.ba/ipPref/Task?url=" + encodeURIComponent(link) + "&title=" + encodeURIComponent(title);
       },
       shouldOpenInPopup: true,
       popupHeight: 480
