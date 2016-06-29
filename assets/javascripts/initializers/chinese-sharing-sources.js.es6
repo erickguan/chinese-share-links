@@ -10,7 +10,7 @@ export default {
       generateUrl(link, title) {
         return "http://erp.rgt.ba/ipPref/Task?url=" + encodeURIComponent(link) + "&title=" + encodeURIComponent(title);
       },
-      shouldOpenInPopup: true,
+      shouldOpenInPopup: false,
       popupHeight: 480,
       popupWidth: 1120
     });
